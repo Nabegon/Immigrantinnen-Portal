@@ -1,13 +1,12 @@
 import * as React from 'react';
-import Layout from '../app/layout';
 
 const HomePage = () => {
   return (
-    <Layout>
+    <h1>
       <div>
         Welcome to the Home Page
       </div>
-    </Layout>
+    </h1>
   );
 };
 
