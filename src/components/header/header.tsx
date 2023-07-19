@@ -18,12 +18,12 @@ const Header = () => {
             </Link>
           </li>
           <li>
-            <Link href="/jobhilfe">
+            <Link href="/job-hilfe">
               Job-Hilfe
             </Link>
           </li>
           <li>
-            <Link href="/deutschlernen">
+            <Link href="/deutsch-lernen">
               Deutsch lernen
             </Link>
           </li>

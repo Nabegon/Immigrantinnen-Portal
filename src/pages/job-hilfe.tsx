@@ -1,28 +1,25 @@
-import Layout from '../components/layout';
-import Link from 'next/link'
-
 import Footer from '../components/footer/footer';
 
-const Frauenrechte = () => {
+const JobHilfe = () => {
   return (
     <div className="h-screen font-Montserrat flex flex-col">
       <main className="flex-1">
-      <h1 className="text-6xl font-bold text-center">Ihre Rechte <br></br>als Migrantinnen in Deutschland</h1>
+      <h1 className="text-6xl font-bold text-center">Möglichkeiten als Migrantinnen, arbeiten zu gehen</h1>
       <p  className="text-3xl font-bold text-center mt-4 mb-4 text-violet">Überblick über das Thema</p>
       <p style={{ wordBreak: 'break-all' }}>TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText</p>
         <div className="grid grid-cols-10 gap-2 flex justify-start items-end">
           <div className="bg-container-gray mr-2 col-span-10 row-start-6 flex flex-col justify-between items-start h-64">
-            <p className="text-4xl font-bold text-center">Rechtlicher Schutz</p>
+            <p className="text-4xl font-bold text-center">Bildungssystem</p>
             </div>
         </div>
         <div className="grid grid-cols-10 gap-2 flex justify-start items-end">
           <div className="bg-container-gray mr-2 col-span-10 row-start-6 flex flex-col justify-between items-start h-64">
-            <p className="text-4xl font-bold text-center">Rechtlicher Schutz</p>
+            <p className="text-4xl font-bold text-center">Agentur für Arbeit</p>
             </div>
         </div>
         <div className="grid grid-cols-10 gap-2 flex justify-start items-end">
           <div className="bg-container-gray mr-2 col-span-10 row-start-6 flex flex-col justify-between items-start h-64">
-            <p className="text-4xl font-bold text-center">Rechtlicher Schutz</p>
+            <p className="text-4xl font-bold text-center">Anerkennung ausländischer Zeugnisse</p>
             </div>
         </div>
       </main>
@@ -31,4 +28,4 @@ const Frauenrechte = () => {
   );
 };
 
-export default Frauenrechte;
+export default JobHilfe;
