@@ -4,9 +4,9 @@ import Link from 'next/link'
 
 const Header = () => {
   return (
-    <div className="container bg-slate-950">
+    <div className="container">
       {/* <div className="mt-5"> */}
-        <ul className="flex space-x-10  font-Montserrat justify-end m-5">
+        <ul className="flex space-x-10 font-Montserrat justify-end m-5">
           <li>
             <Link href="/frauenrechte">
             Frauenrechte
