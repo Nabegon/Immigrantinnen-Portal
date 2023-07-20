@@ -4,8 +4,13 @@ import Link from 'next/link'
 
 const Footer = () => {
   return (
-    <div className="container bg-silver">
-      <h1>Footer</h1>
+    <div className="bg-container-gray m-4">
+      <p className="font-bold">RECHTSSTOFFE</p>
+      <br />
+      <p>Datenschutz</p>
+      <p>Nutzungsbedingungen</p>
+      <br />
+      <p className="font-bold">FOLLOW US</p>
     </div>
   );
 };
