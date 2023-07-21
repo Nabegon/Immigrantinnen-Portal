@@ -1,12 +1,10 @@
 import * as React from 'react';
 import Link from 'next/link'
 
-
 const Header = () => {
   return (
     <div className="container">
-      {/* <div className="mt-5"> */}
-        <ul className="flex space-x-10 font-Montserrat justify-end m-5">
+        <ul className="flex space-x-2 md:space-x-10 font-Montserrat justify-end m-5 text-xs md:text-lg">
           <li>
             <Link href="/frauenrechte">
             Frauenrechte

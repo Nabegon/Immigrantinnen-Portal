@@ -9,9 +9,9 @@ const Home = () => {
       <main className="flex-1">
         <div className="grid grid-cols-1 md:grid-cols-10 gap-2 flex justify-start items-end">
           <div className="md:col-span-3 md:row-span-6 md:row-start-6 flex flex-col justify-between items-start md:h-64">
-            <p className="text-4xl font-bold text-center">Empowerment&nbsp; von Migrantinnen</p>
-            <p className="text-center">Einfacher Guide zu Rechten, Ressourcen und Möglichkeiten</p>
-            <button className="bg-violet hover:bg-violet-500 text-white text-xl px-4 py-2 w-56 ml-14">
+            <p className="text-4xl font-bold text-center m-5 md:m-0">Empowerment&nbsp; von Migrantinnen</p>
+            <p className="text-center  m-5 md:m-0">Einfacher Guide zu Rechten, Ressourcen und Möglichkeiten</p>
+            <button className="bg-violet hover:bg-violet-500 text-white text-xl px-4 py-2 w-56 ml-14 m-5 md:m-0">
               <Link href="/frauenrechte">
                 Mehr Infos
               </Link>
