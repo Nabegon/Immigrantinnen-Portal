@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0255231"
+     inkscape:cx="248.16603"
+     inkscape:cy="448.06402"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.6;fill:none;stroke:#9500ff;stroke-width:7.9375;stroke-dasharray:none;stroke-dashoffset:5.67721357;stroke-linecap:round;stroke-linejoin:round"
+       d="m 95.594593,53.27027 c 0,66.77026 1.094596,62.75675 1.094596,62.75675 C 87.375614,102.52836 64.310557,86.882695 56.221686,68.806995 46.563197,47.22377 54.731107,29.762269 95.594593,53.27027 Z"
+       id="path236"
+       sodipodi:nodetypes="ccsc"
+       inkscape:tile-cx="18.06625"
+       inkscape:tile-cy="76.508491"
+       inkscape:tile-w="46.80923"
+       inkscape:tile-h="76.547688"
+       inkscape:tile-x0="-5.2826536"
+       inkscape:tile-y0="38.216797" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path236"
+       xlink:href="#path236"
+       id="use444"
+       style="stroke-width:7.9375;stroke-dasharray:none;stroke-dashoffset:2.21766167;stroke-linecap:round;stroke-linejoin:round" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path236"
+       xlink:href="#path236"
+       transform="matrix(-0.99990207,0.01399431,0.01399431,0.99990207,199.69888,-1.0372988)"
+       id="use446"
+       style="stroke-width:7.9375;stroke-dasharray:none;stroke-dashoffset:2.21766;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+</svg>
