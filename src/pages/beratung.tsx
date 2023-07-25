@@ -117,7 +117,7 @@ const Beratung = () => {
             <strong>Hotline:</strong> +49 30 4423233 (Monday to Friday, 10 am to 6 pm)
           </li>
           <li className="my-3">
-            <strong>・ Immigrant Women's Health and Counseling Center (FIM)</strong>
+            <strong>・ Immigrant Women&apos;s Health and Counseling Center (FIM)</strong>
             <br />
             Counseling and support for immigrant women
             <br />
