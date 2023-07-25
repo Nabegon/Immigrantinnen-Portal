@@ -1,5 +1,6 @@
 import * as React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 const Header = () => {
   return (
@@ -7,7 +8,7 @@ const Header = () => {
       <div className="flex flex-col md:flex-row justify-between items-center m-5 font-Montserrat text-xs md:text-lg">
         <Link href="/">
           <div className="w-24 h-24 mt-5">
-            <img src="/logo_immigrantin_portal.svg" alt="Logo" />
+            <Image src="/logo_immigrantin_portal.svg" alt="Top page image with hearts" />
           </div>
         </Link>
 
