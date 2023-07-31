@@ -7,8 +7,8 @@ const Nutzungebedingungen = () => {
             <h1 className="text-3xl font-bold mt-8 mb-4">Immigrantinnen-Portal Datenschutz</h1>
             <h2 className="mb-4"> Diese Nutzungsbedingungen regeln Ihre Nutzung der Website </h2>
             <p>
-                "Immigrantinnen-Portal" und alle damit verbundenen Dienste, Funktionen und Inhalte 
-                (zusammenfassend als "Dienste" bezeichnet). Durch die Nutzung der Dienste erklären 
+                Immigrantinnen-Portal und alle damit verbundenen Dienste, Funktionen und Inhalte 
+                (zusammenfassend als Dienste bezeichnet). Durch die Nutzung der Dienste erklären 
                 Sie sich mit diesen Nutzungsbedingungen einverstanden. Wenn Sie mit diesen Bedingungen 
                 nicht einverstanden sind, verwenden Sie die Dienste bitte nicht.
             </p>
@@ -30,7 +30,7 @@ const Nutzungebedingungen = () => {
             <br />
             <h2 className="mb-4"> 3. Geistiges Eigentum</h2>
             <p>
-                Alle Inhalte, die auf der Website "Immigrantinnen-Portal" angezeigt werden, einschließlich Texte, Bilder, 
+                Alle Inhalte, die auf der Website Immigrantinnen-Portal angezeigt werden, einschließlich Texte, Bilder, 
                 Grafiken, Logos, Videos und Audioinhalte, sind durch geistige Eigentumsrechte geschützt und bleiben das 
                 Eigentum von Immigrantinnen-Portal oder den jeweiligen Rechteinhabern. Sie dürfen keine Inhalte der Website 
                 ohne ausdrückliche Genehmigung von Immigrantinnen-Portal oder den entsprechenden Rechteinhabern reproduzieren, 
@@ -39,7 +39,7 @@ const Nutzungebedingungen = () => {
             <br />
             <h2 className="mb-4"> 4. Haftungsausschluss</h2>
             <p>
-                Die Dienste werden "wie besehen" und ohne jegliche Gewährleistung oder Garantie zur Verfügung gestellt. 
+                Die Dienste werden wie besehen und ohne jegliche Gewährleistung oder Garantie zur Verfügung gestellt. 
                 Immigrantinnen-Portal übernimmt keine Verantwortung für die Genauigkeit, Vollständigkeit oder Aktualität der 
                 Inhalte auf der Website. Sie nutzen die Dienste auf eigenes Risiko.            
             </p>

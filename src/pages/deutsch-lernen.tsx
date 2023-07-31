@@ -18,7 +18,7 @@ const Beratung = () => {
           <div className="bg-container-gray mr-2 col-span-10 row-start-6 flex flex-col justify-between items-start h-64">
             <p className="text-4xl font-bold text-center">Sprachkurse</p>
             <p className="md:text-base text-sm max-h-96 overflow-y-auto m-3 no-scrollbar">
-              Die "Gemeinsamer Europäischer Referenzrahmen für Sprachen" (GER) des Europarats legt die Standards für die Deutschkenntnisse von A1 bis C2 fest. 
+              Die Gemeinsamer Europäischer Referenzrahmen für Sprachen (GER) des Europarats legt die Standards für die Deutschkenntnisse von A1 bis C2 fest. 
               Basierend darauf gibt es in Deutschland viele Sprachschulen und Bildungseinrichtungen, die Kurse anbieten, die speziell für Ausländer entwickelt wurden . 
               Diese Kurse decken alle Sprachniveaus von Anfänger bis Fortgeschrittener ab und vermitteln dir eine solide Grundlage, um selbstbewusst im Alltag und Beruf 
               kommunizieren zu können.
@@ -35,14 +35,14 @@ const Beratung = () => {
           <div className="bg-container-gray mr-2 col-span-10 row-start-6 flex flex-col justify-between items-start h-64">
             <p className="text-4xl font-bold text-center">Integrationskurse</p>
             <p className="md:text-base text-sm max-h-96 overflow-y-auto m-3 no-scrollbar">
-              Wenn du als Einwanderer oder Flüchtling nach Deutschland kommst und die unbefristete Aufenthaltserlaubnis beantragen möchtest, musst du einen sogenannten "Integrationskurs" 
-              absolvieren. Dieser Kurs besteht aus einem "Sprachkurs", in dem du Deutsch lernst, und einem "Orientierungskurs", in dem du über das deutsche Rechtssystem, die Kultur, 
+              Wenn du als Einwanderer oder Flüchtling nach Deutschland kommst und die unbefristete Aufenthaltserlaubnis beantragen möchtest, musst du einen sogenannten Integrationskurs 
+              absolvieren. Dieser Kurs besteht aus einem Sprachkurs, in dem du Deutsch lernst, und einem Orientierungskurs, in dem du über das deutsche Rechtssystem, die Kultur, 
               Geschichte und andere Themen informiert wirst. Der Sprachkurs ist in einen 300-stündigen Grundkurs und einen weiterführenden Kurs mit 300 Stunden unterteilt, um das Ziel des B1-Niveaus zu erreichen.
 
               Um ein langfristiges Visum zu erhalten, benötigst du je nach Visumtyp ein Zertifikat auf dem B1-Niveau in Deutsch. Zusätzlich musst du für den Antrag auf eine unbefristete 
-              Aufenthaltserlaubnis eine Bestätigung über den Abschluss des Orientierungskurses und den sogenannten "Einbürgerungstest" namens "Leben in Deutschland" ablegen. 
-              Dabei werden Grundkenntnisse der deutschen Sprache und Wissen über die soziale Integration in Deutschland getestet. Diese Bestätigung, das "Zertifikat über den 
-              Abschluss des Integrationskurses", musst du vorlegen. Beachte jedoch, dass du unter bestimmten Umständen, beispielsweise wenn du bereits arbeitest oder an einer Universität studierst, 
+              Aufenthaltserlaubnis eine Bestätigung über den Abschluss des Orientierungskurses und den sogenannten Einbürgerungstest namens Leben in Deutschland ablegen. 
+              Dabei werden Grundkenntnisse der deutschen Sprache und Wissen über die soziale Integration in Deutschland getestet. Diese Bestätigung, das Zertifikat über den 
+              Abschluss des Integrationskurses, musst du vorlegen. Beachte jedoch, dass du unter bestimmten Umständen, beispielsweise wenn du bereits arbeitest oder an einer Universität studierst, 
               von dieser Regelung befreit sein kannst. Daher ist es wichtig, im Voraus mit dem Ausländeramt zu klären, ob du das Zertifikat über den Abschluss des Integrationskurses benötigst.
 
               Wenn du als Einwanderer oder Flüchtling aus einem Nicht-EU-Land nach Deutschland kommst, wird von dir erwartet, dass du Grundkenntnisse der deutschen Sprache besitzt und über grundlegendes 

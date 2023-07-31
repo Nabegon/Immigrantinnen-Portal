@@ -129,7 +129,7 @@ const JobHilfe = () => {
           <div className="bg-container-gray mr-2 col-span-10 row-start-6 flex flex-col justify-between items-start max-h-64">
             <p className="md:text-4xl text-3xl font-bold text-center m-3">Chancenkarte</p>
               <p className="md:text-base text-sm max-h-96 overflow-y-auto m-3 no-scrollbar">
-                Aufgrund des Fachkräftemangels gibt es jetzt ein neues Visum namens "Chancenkarte". Es basiert auf einem Punktesystem, das verschiedene Faktoren wie Sprachkenntnisse, Berufserfahrung, 
+                Aufgrund des Fachkräftemangels gibt es jetzt ein neues Visum namens Chancenkarte. Es basiert auf einem Punktesystem, das verschiedene Faktoren wie Sprachkenntnisse, Berufserfahrung, 
                 Alter und Verbindung zu Deutschland berücksichtigt. Mit diesem Visum kannst du nicht nur in bestimmten Berufen arbeiten, sondern es ist auch für verschiedene Berufe wie Handwerk, Bauwesen, 
                 Metall- und Maschinenbau, Pflege, medizinische Fachkräfte und Pädagogen verfügbar. Die Chancenkarte bietet eine breitere Palette von Möglichkeiten als bestehende Visa und richtet sich an 
                 Personen mit anerkannten Qualifikationen aus dem Heimatland, zwei Jahren Berufserfahrung oder einem verwandten Hochschulabschluss.

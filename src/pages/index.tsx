@@ -91,9 +91,19 @@ const Home: React.FC<HomeProps> = ({ allPostsData }) => {
         <div key={post.props.id} className="bg-container-gray flex justify-center items-center w-full md:w-96 h-40 md:h-96">
           
           <Link
+                // href={{
+                //   pathname: '/blog/[slug]',
+                //   query: { slug: post.props.id, content: post.props.content, title: post.props.frontMatter.title, date: post.props.frontMatter.date },
+                // }}
+                key={post.props.id}
                 href={{
                   pathname: '/blog/[slug]',
-                  query: { slug: post.props.id, content: post.props.content, title: post.props.frontMatter.title, date: post.props.frontMatter.date },
+                  query: {
+                    slug: post.props.id,
+                    content: post.props.content,
+                    title: post.props.frontMatter.title,
+                    date: post.props.date,
+                  },
                 }}
               >
                <p className="text-4xl font-bold text-center">{post.props.frontMatter.title}</p>

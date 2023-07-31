@@ -7,7 +7,7 @@ const Datenschutz = () => {
             <h1 className="text-3xl font-bold mt-8 mb-4">Immigrantinnen-Portal Datenschutz</h1>
             <h2 className="mb-4"> 1. Datensammlung und -verwendung</h2>
             <p>
-              Das Immigrantinnen-Portal (nachfolgend als "die Website" bezeichnet) sammelt automatisch 
+              Das Immigrantinnen-Portal (nachfolgend als die Website bezeichnet) sammelt automatisch 
               Informationen, wenn Nutzer die Website besuchen, einschließlich IP-Adresse, Browsertyp, 
               Referrer (die zuvor besuchte URL) und aufgerufene Seiten. Diese Informationen werden 
               für die Analyse des Datenverkehrs und die Verbesserung der Website verwendet. Außerdem 
