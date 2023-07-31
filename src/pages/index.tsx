@@ -2,7 +2,8 @@ import * as React from 'react';
 import Link from 'next/link';
 import 'tailwindcss/tailwind.css';
 import Footer from '../components/footer/footer';
-import { getSortedPostsData } from '../../lib/posts'
+import Image from 'next/image';
+import { getSortedPostsData } from '../../lib/posts';
 
 type Post = {
   props: {
@@ -46,7 +47,7 @@ const Home: React.FC<HomeProps> = ({ allPostsData }) => {
             </button>
           </div>
           <div className="col-span-1 md:col-span-7 md:row-span-6 md:row-start-6 bg-container-gray h-40 md:h-96 border border-black-500">
-            <img src="/top-page-image.svg" alt="Logo" className="h-full w-full" />
+            <Image src="/top-page-image.svg" alt="Logo" className="h-full w-full" width={100} height={100}/>
           </div>
       </div>
 
