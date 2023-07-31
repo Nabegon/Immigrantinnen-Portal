@@ -23,6 +23,7 @@ module.exports = {
       'silver': '#EDEAF2',
       'container-gray': '#DADADC',
       'violet': '#8B56D3',
+      'hover-violet': '#53337E',
       'white': '#FFFFFF',
       red: {
         400: "#f87171",

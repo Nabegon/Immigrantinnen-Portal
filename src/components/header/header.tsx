@@ -8,7 +8,7 @@ const Header = () => {
       <div className="flex flex-col md:flex-row justify-between items-center m-5 font-Montserrat text-xs md:text-lg">
         <Link href="/">
           <div className="w-24 h-24 mt-5">
-            <Image src="/logo_immigrantin_portal.svg" alt="Top page image with hearts" />
+            <Image src="/logo_immigrantin_portal.svg" alt="Top page image with hearts" width={100} height={100}/>
           </div>
         </Link>
 
