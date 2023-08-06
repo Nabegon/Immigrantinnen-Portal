@@ -2,17 +2,17 @@
 title: 'Warum Immigtantinnen-Portal?'
 date: '2023-08-04'
 ---
-
+<br>
 Hallo, ich bin Miki und habe diese Website erstellt. Hier schreibe ich heute über meine Motivation für dieese Website usw.
 <br>
 <br>
-**Ziel dieser Website, warum Immigrantinnen-Portal?** 
+<b>Ziel dieser Website, warum Immigrantinnen-Portal?</b>
 <br>
 <br>
 Das Ziel des Projekts ist es, eine Website für das Empowerment von Migrantinnen in Deutschland zu erstellen. Um dieses Ziel zu erreichen, ist die Website so strukturiert, dass es einfach ist, sich über die Rechte und Ressourcen von Migrantinnen in Deutschland und über die verschiedenen Angebote (oder Möglichkeiten) zu informieren.
 <br>
 <br>
-**Motivation!** 
+<b>Motivation!</b>
 <br>
 <br>
 Zunächst einmal bin ich im Alter von 26 Jahren nach Deutschland gezogen. Als ich nach Deutschland kam, konnte ich überhaupt kein Deutsch sprechen, und von da an habe ich innerhalb von sechs Monaten Mittelstufenkenntnisse erworben, aber seitdem sind meine Deutschkenntnisse nur langsam gewachsen. Da ich als Erwachsene ausgewandert bin, hatte ich nicht viel Gelegenheit, mich über meine Grundrechte in Deutschland zu informieren. Außerdem gab es viele ähnliche Frauen in meinem Umfeld. Vor allem hatten viele von ihnen keinen Zugang zu Informationen, die sie als ausländische Frau hätten wissen müssen, und ich war eine von ihnen. Deshalb wollte ich eine zentrale Website, auf der man grundlegende Informationen über das Leben in Deutschland finden kann, entwickeln. 
@@ -29,6 +29,8 @@ Schließlich weitet Deutschland seine Grenzen für Migranten aus. In Zukunft wir
 Das war's für heute, bis dann! :)
 <br>
 <br>
-**References**
-- World Health Organization: WHO. (2021). Mental health and forced displacement. www.who.int. Abgerufen am 28. Juli 2023, von https://www.who.int/news-room/fact-sheets/detail/mental-health-and-forced-displacement  
+<b>References</b>
+<br>
+- World Health Organization: WHO. (2021). Mental health and forced displacement. www.who.int. Abgerufen am 28. Juli 2023, von https://www.who.int/news-room/fact-sheets/detail/mental-health-and-forced-displacement
+<br>
 - Fachkräfteeinwanderungsgesetz | Bundesregierung. (2023, July 7). Die Bundesregierung Informiert | Startseite. Abgerufen am 28. Juli 2023, von https://www.bundesregierung.de/breg-de/themen/arbeit-und-soziales/fachkraefteeinwanderungsgesetz-2182168

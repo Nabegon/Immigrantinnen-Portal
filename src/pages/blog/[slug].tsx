@@ -6,10 +6,13 @@ import Footer from '../../components/footer/footer';
 export default function Page() {
   const router = useRouter();
   const [content, setContent] = useState('');
+  const markdownContent = Array.isArray(router.query.content)
+    ? router.query.content[0] || ''
+    : router.query.content || '';
 
   useEffect(() => {
-    setContent(router.query.content || '');
-  }, [router.query.content]);
+    setContent(markdownContent);
+  }, [markdownContent]);
 
   return (
     <div className="h-screen font-Montserrat flex flex-col">
