@@ -9,11 +9,10 @@ export default function Page() {
   const markdownContent = Array.isArray(router.query.content)
     ? router.query.content[0] || ''
     : router.query.content || '';
-
-  useEffect(() => {
-    setContent(markdownContent);
+    useEffect(() => {
+      setContent(markdownContent);
   }, [markdownContent]);
-
+  
   return (
     <div className="h-screen font-Montserrat flex flex-col">
       <main className="flex-1">
